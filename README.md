@@ -1,0 +1,3 @@
+# Shop's API
+
+It's a simple NodeJS API project to manage a PostgresSQL database and manage orders and products using Sequelize ORM...
